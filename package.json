@@ -4,7 +4,9 @@
   "private": true,
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start":"webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petertodorov/webappDemo.git"
@@ -12,9 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/petertodorov/webappDemo/issues"
-  },
+  
   "homepage": "https://github.com/petertodorov/webappDemo#readme",
   "devDependencies": {
     "webpack": "^4.41.5",
